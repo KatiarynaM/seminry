@@ -49,7 +49,7 @@
 Для того, чтобы добавить картинку надо ! [] () без пробелов
 ![Картинка](https://celes.club/uploads/posts/2022-10/1667240153_1-celes-club-p-garri-potter-sova-art-instagram-1.jpg)
 
-![Second](https://i1.sndcdn.com/artworks-JkOEnXPyz5nrmEPx-pBdDfw-t500x500.jpg)
+![Second](https://upload.wikimedia.org/wikipedia/ru/thumb/e/e5/Hogwarts-coat.svg/1200px-Hogwarts-coat.svg.png)
 
 
 ## Добавление ссылок
